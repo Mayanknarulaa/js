@@ -8,7 +8,4 @@ for (const greet of greetings) {
 
 //  Maps
 
-const Map = new Map()
-
-Map.set('IN', 'India')
 
