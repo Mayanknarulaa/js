@@ -6,7 +6,7 @@ for (const greet of greetings) {
     console.log(`Each char is ${greet}`)
 }
 
-// Maps
+//  Maps
 
 const Map = new Map()
 
